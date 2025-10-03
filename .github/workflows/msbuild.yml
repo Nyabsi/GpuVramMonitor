@@ -47,4 +47,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: VramGpuMonitor.exe
-        path: ./VramGpuMonitor/x64/Release/VramGpuMonitor.exe
+        path: VramGpuMonitor/x64/Release/VramGpuMonitor.exe
